@@ -1,0 +1,5 @@
+9
+[2023-10-15 14:30:45] [INFO] Application started
+[2023-10-15 14:31:10] [ERROR] Failed to connect to database
+[2023-10-15 14:32:00] [INFO] User logged in
+end

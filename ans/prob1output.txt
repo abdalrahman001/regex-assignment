@@ -1,0 +1,6 @@
+1
+valid
+valid
+valid
+invalid
+x

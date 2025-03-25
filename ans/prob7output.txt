@@ -1,0 +1,27 @@
+7
+**aabb**
+number of matched substrings: 1
+ab [1, 2]
+---------------------------------------------
+**aabaaaaabaa**
+number of matched substrings: 18
+aaba [0, 3]
+aabaaa [0, 5]
+aabaaaaa [0, 7]
+ab [1, 2]
+abaa [1, 4]
+abaaaa [1, 6]
+ba [2, 3]
+baaa [2, 5]
+baaaaa [2, 7]
+aaaaab [3, 8]
+aaaaabaa [3, 10]
+aaaaba [4, 9]
+aaab [5, 8]
+aaabaa [5, 10]
+aaba [6, 9]
+ab [7, 8]
+abaa [7, 10]
+ba [8, 9]
+---------------------------------------------
+x

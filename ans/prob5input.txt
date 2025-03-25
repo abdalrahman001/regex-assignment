@@ -1,0 +1,8 @@
+5
+x
+x1y2
+_hello
+1x
+bad name
+!name
+end
